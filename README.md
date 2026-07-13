@@ -1,5 +1,7 @@
 # Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM
 
+Projeto desenvolvido durante o desafio da DIO utilizando o NotebookLM como ferramenta de aprendizagem ativa.
+
 ## 1. Introdução
 
 Esse projeto foi criado no NotebookLM e tem como objetivo proporcionar conhecimento sobre educação financeira para pessoas que desejam aprender mais sobre o tema, ajudando a diminuir o déficit financeiro, eliminar dívidas e compreender formas de fazer o dinheiro trabalhar a seu favor.
